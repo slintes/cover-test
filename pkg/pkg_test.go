@@ -8,7 +8,7 @@ import (
 
 func TestA(t *testing.T) {
 
-	pkg.A()
+	//pkg.A()
 	pkg.B()
 
 }
